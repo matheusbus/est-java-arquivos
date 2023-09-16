@@ -1,4 +1,4 @@
-package org.simples;
+package org.leitura;
 
 /*
 * Leitura de arquivos com as Classes File e Scanner
