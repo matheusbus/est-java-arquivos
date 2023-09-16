@@ -1,0 +1,3 @@
+Essa é a leitura de uma arquivo utilizando stream.
+Além da stream (sequencia de caracteres), é utilizado também o bufferedStream para leituras mais rápidas.
+O bufferedStream implementa algumas interfaces de otimização.
