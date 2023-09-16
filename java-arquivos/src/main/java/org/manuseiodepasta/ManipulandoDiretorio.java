@@ -30,5 +30,7 @@ public class ManipulandoDiretorio {
         if(sucesso) {
             System.out.println("Diretório criado com sucesso.");
         }
+
+        scanner.close();
     }
 }
