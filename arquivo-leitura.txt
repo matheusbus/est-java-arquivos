@@ -1,0 +1,4 @@
+Este é um arquivo de teste de leitura.
+Para essa leitura, estou utilizando as classes File e Scanner.
+File é uma representação abstrata do arquivo e seu caminho.
+Scanner é responsável por percorrer o arquivo e scanear o mesmo.
